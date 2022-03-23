@@ -1,0 +1,107 @@
+/* 2. Блок magelan*/
+/* border: 2px solid yellow; */
+
+.magellan__title {
+  color: #255dbe;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 23px;
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  margin-bottom: 52px;
+}
+
+.magellan__subtitle {
+  max-width: 1648px;
+  font-family: "Noto Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 24px;
+  color: #4d4d4d;
+  transition: color, 0.4s;
+  margin-bottom: 65px;
+  margin-top: 0;
+  padding: 0;
+}
+
+.magellan__subtitle:hover {
+  color: #255dbe;
+}
+
+.magellan__text {
+  max-width: 1648px;
+  font-family: "Noto Sans", Arial, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 24px;
+  color: #4d4d4d;
+  margin-bottom: 65px;
+  margin-top: 0;
+  padding: 0;
+}
+
+.benefit__cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  max-width: 223px;
+  margin: 0 auto;
+}
+
+.benefit__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 264px;
+  margin-right: 80px;
+  text-align: center;
+  padding: 0;
+}
+
+.benefit__item:last-child {
+  margin-right: 0;
+}
+.benefit__number {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 264px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 12px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 64px;
+  line-height: 93px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  color: #5b666d;
+  transition: color, 0.4s;
+  font-family: "Noto Sans", Arial, sans-serif;
+}
+
+.benefit__number:hover {
+  color: #255dbe;
+}
+
+.benefit__text {
+  display: flex;
+  justify-content: flex-start;
+  width: 264px;
+  text-align: center;
+  margin-top: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  color: #171818;
+  font-family: "Noto Sans", Arial, sans-serif;
+}

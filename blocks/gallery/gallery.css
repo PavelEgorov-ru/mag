@@ -1,0 +1,49 @@
+/* 1. Блок gallery*/
+/* border: 2px solid yellow; */
+
+#gallery {
+	background-color: #fff;
+}
+#gallery .gallery-bg {
+	background: url(../images/gallery-bg.png) left center no-repeat;
+}
+#gallery .gallery-slider {
+	padding-left: 75px;
+	padding-right: 75px;
+	max-width: 900px;
+	margin: 0 auto;
+	text-align: center;
+}
+#gallery .gallery-slider .slide {
+	margin: 0 auto !important;
+	width: 100%;
+}
+/*#gallery .gallery-slider .slider-arrow {
+	position: absolute;
+	top: 50%;
+	margin-top: -18px;
+	z-index: 100;
+	cursor: pointer;
+}
+#gallery .gallery-slider .slider-arrow span {
+	display: block;
+	width: 36px;
+	height: 37px;
+	background-color: #f4c71b;
+	border-radius: 50%;
+	text-align: center;
+	padding-top: 11px;
+}*/
+/*#gallery .gallery-slider .slider-arrow.prev {
+	left: 0;
+}
+#gallery .gallery-slider .slider-arrow.next {
+	right: 0;
+}
+#gallery .gallery-slider .slider-dots {
+	left: 50%;
+	margin-left: -65px;
+	bottom: 5%;
+}*/
+
+
