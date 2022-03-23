@@ -1,0 +1,23 @@
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts/fonts.css");
+
+/* <!-- 1. Блок header --> */
+@import url("../blocks/header/header.css");
+
+/* <!-- 2. Блок menu --> */
+@import url("../blocks/gallery/gallery.css");
+
+
+@import url("../blocks/style.min.css");
+
+@import url("../blocks/production/production.css");
+
+@import url("../blocks/magellan/magellan.css");
+
+@import url("../blocks/footer/footer.css");
+
+
+
+
+/* @import url("../css/style.min.css"); */
+@import url("../css/font-awesome.min.css");
